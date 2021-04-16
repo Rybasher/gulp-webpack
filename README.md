@@ -44,13 +44,13 @@ style.scss - для основных стилей
 ---
 
 Подписывайся:
-- **telegram:** **[@html_mentor](https://t.me/html_mentor)**
-- **instagram:** **[@html.mentor](https://www.instagram.com/leontiev.dev)**
+- **telegram:** **[@Leontiev_dev](https://t.me/Leontiev_dev)**
+- **instagram:** **[@leontiev.dev](https://www.instagram.com/leontiev.dev)**
 
 Примечание:
 
 Основная часть сборки взята у:
-- **telegram:** **[@html_mentor](https://t.me/Leontiev_dev)**
+- **telegram:** **[@html_mentor](https://t.me/html_mentor)**
 - **instagram:** **[@html.mentor](https://www.instagram.com/html.mentor)**
 
 Я лишь добавил сюда webpack для хорошей работы с js-ом, добавил несколько файлов scss. 
