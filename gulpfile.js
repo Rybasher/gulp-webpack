@@ -28,11 +28,11 @@ function html() {
 }
 
 function scss() {
-    return src('app/scss/main.scss')
+    return src(['./app/scss/**.scss'])
         .pipe(sass())
         .pipe(cleanCSS({ level: 2 }))
         .pipe(replace('../../', ''))
-        .pipe(dest('build/css'))
+        .pipe(dest('./build/css'))
         .pipe(sass().on('error', sass.logError))
 };
 
